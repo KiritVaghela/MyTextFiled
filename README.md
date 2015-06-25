@@ -1,6 +1,10 @@
 # MyTextFiled
 UITextField with Padding option
 
+![enter image description here][1]
+
+  [1]: http://i.stack.imgur.com/E8yZI.png
+  
 MyTextField.h
 
     #import <UIKit/UIKit.h>
@@ -30,7 +34,5 @@ MyTextField.m
     
     @end
 
-![enter image description here][1]
 
-  [1]: http://i.stack.imgur.com/E8yZI.png
    
